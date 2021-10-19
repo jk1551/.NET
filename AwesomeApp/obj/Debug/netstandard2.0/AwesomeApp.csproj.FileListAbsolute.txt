@@ -1,0 +1,15 @@
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.deps.json
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.dll
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/ref/AwesomeApp.dll
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csproj.AssemblyReference.cache
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfoInputs.cache
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfo.cs
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csproj.CoreCompileInputs.cache
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/ref/AwesomeApp.dll
+/Users/joeking/Projects/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb
